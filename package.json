@@ -1,0 +1,23 @@
+{
+	"name": "be",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"engines": {
+		"node": "18.x"
+	},
+	"scripts": {
+		"start": "node src",
+		"server": "nodemon src"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.19"
+	}
+}
