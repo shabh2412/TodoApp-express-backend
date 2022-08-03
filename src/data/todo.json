@@ -1,1 +1,7 @@
-[{"id":1,"task":"learn react.js basics","status":false},{"id":2,"task":"learn node","status":false},{"id":3,"task":"learn express","status":false},{"task":"play COD","status":false,"id":4},{"id":5,"task":"play Valorant","status":false},{"id":6,"task":"Take a bath ","status":false}]
+[
+	{ "id": 1, "task": "learn react.js basics", "status": false },
+	{ "id": 2, "task": "learn node", "status": false },
+	{ "id": 3, "task": "learn express", "status": false },
+	{ "task": "play COD", "status": false, "id": 4 },
+	{ "id": 5, "task": "play Valorant", "status": false }
+]
